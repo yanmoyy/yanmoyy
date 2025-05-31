@@ -10,7 +10,7 @@ published on App Stores as a team member.
 aiming to become a backend engineer.
 
 ⚙️ I'm passionate about efficient workflows, tweeking my
-[Neovim setup](https://github.com/yanmoyy/nvim-config) and
+[Neovim setup](https://github.com/yanmoyy/nvim-config) (btw) and
 [dotfiles](https://github.com/yanmoyy/dotfiles) for optimal productivity.
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yanmoyy/)
