@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi, I'm Hyunmo Yang
+## Hi, I'm Hyunmo Yang
 
 🎓 I majored in Computer Science at [SeoulTech](https://en.seoultech.ac.kr/), graduated in Febuary 2025
 
