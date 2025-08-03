@@ -8,7 +8,7 @@ graduated in Febuary 2025
 published on App Stores as a team member.
 
 🧑🏻‍💻 Currently building projects with Go and Python (especially love Go!) and
-aiming to become a software engineer.
+aiming to work as a software engineer.
 
 ⚙️ I enjoy tweaking my dev environment, including
 [Neovim setup](https://github.com/yanmoyy/nvim-config) (btw) and
