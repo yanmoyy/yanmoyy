@@ -10,8 +10,10 @@ published on App Stores as a team member.
 🧑🏻‍💻 Currently building projects with Go and Python (especially love Go!) and
 aiming to become a software engineer.
 
-⚙️ I really like tweeking my developer environment, including
+⚙️ I enjoy tweaking my dev environment, including
 [Neovim setup](https://github.com/yanmoyy/nvim-config) (btw) and
 [dotfiles](https://github.com/yanmoyy/dotfiles).
+
+🚀 Check out my latest project, [Go-Go-Go](https://github.com/yanmoyy/go-go-go)!
 
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yanmoyy/)
