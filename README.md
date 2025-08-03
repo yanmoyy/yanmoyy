@@ -14,6 +14,4 @@ aiming to become a software engineer.
 [Neovim setup](https://github.com/yanmoyy/nvim-config) (btw) and
 [dotfiles](https://github.com/yanmoyy/dotfiles).
 
-🚀 Check out my latest project, [Go-Go-Go](https://github.com/yanmoyy/go-go-go)!
-
 📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yanmoyy/)
