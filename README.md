@@ -1,4 +1,4 @@
-## Hi, I'm Hyunmo Yang
+## Hi, I'm Yanmo
 
 I majored in Computer Science at SeoulTech, graduated in Febuary 2025
 
